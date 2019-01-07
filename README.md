@@ -1,5 +1,5 @@
 # Analyze-AB-Test-Results
-Udacity Data Analyst Nanodegree Project 3 -  Analyze-AB-Test-Results
+Udacity Data Analyst Nanodegree Project -  Analyze-AB-Test-Results
 
 # What is A/B Testing ?
 A/B testing (also known as split testing or bucket testing) is a method of comparing two versions against each other to determine which one performs better.
